@@ -1,0 +1,1 @@
+curl -H "Authorization: token OAUTH-TOKEN" https://api.github.com/users/technoweenie -I HTTP/1.1 200 OK X-OAuth-Scopes: repo, user X-Accepted-OAuth-Scopes: user 
